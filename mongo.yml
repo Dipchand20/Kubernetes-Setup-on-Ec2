@@ -95,6 +95,7 @@ metadata:
 spec:
   selector:
     app: mongodb
+  type: NodePort
   ports:
     - protocol: TCP
       port: 27017
