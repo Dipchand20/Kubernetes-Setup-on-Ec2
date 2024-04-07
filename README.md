@@ -1,1 +1,2 @@
-# Kubernetes-Setup-on-Ec2
+# Setup your kubernetes cluster on EC2
+
